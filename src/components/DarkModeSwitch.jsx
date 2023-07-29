@@ -9,7 +9,7 @@ export default function DarkModeSwitch() {
 
   useEffect(() => setMounted(true), []);
   const currentTheme = theme === "system" ? systemTheme : theme;
-  return (
+ return (
     <>
       {currentTheme === "dark" ? (
         <MdLightMode
