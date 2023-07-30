@@ -1,3 +1,5 @@
+/* eslint-disable react/prop-types */
+
 import React from 'react'
 import Link from 'next/link'
 import MenuItem from './MenuItem'
