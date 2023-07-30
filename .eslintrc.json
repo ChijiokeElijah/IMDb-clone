@@ -2,7 +2,7 @@
   "extends": "next/core-web-vitals",
   
   "rules": {
-    "react/prop-types": false
+    "react/prop-types": ["warn"]
   }
 }
 
