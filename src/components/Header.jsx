@@ -1,4 +1,4 @@
-// eslint-disable react/prop-types 
+/* eslint-disable react/display-name */
 
 import React from 'react'
 import Link from 'next/link'
@@ -26,3 +26,4 @@ export default function () {
     </div>
   )
 }
+
